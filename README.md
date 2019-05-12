@@ -6,7 +6,7 @@ Access through https://my-json-server.typicode.com/MrSkwiggs/Netswift-HelloWorld
 ### Structure:
 ```
 {
-  "title": "Hello, World!"
+  "title": "Hello, world!"
 }
 ```
 
