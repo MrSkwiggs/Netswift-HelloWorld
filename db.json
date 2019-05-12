@@ -1,5 +1,3 @@
 {
-  "netswift": {
-    "title": "Hello, world!"
-  }
+  "netswift": "Hello, world!"
 }
