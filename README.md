@@ -11,4 +11,4 @@ Access via https://my-json-server.typicode.com/MrSkwiggs/Netswift-HelloWorld/Net
 ```
 
 ### Credits
-Uses https://my-json-server.typicode.com. Hats of to @typicode 🙌
+Uses https://my-json-server.typicode.com. Hats off to @typicode 🙌
